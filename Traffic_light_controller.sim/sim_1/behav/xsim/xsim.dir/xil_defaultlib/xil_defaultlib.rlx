@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Vivado_projects/Vivado/Traffic_light_controller/Traffic_light_controller.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Vivado_projects/Vivado/tb_trafficlight.v,1752943098,verilog,,,,tb_trafficlight,,,,,,,,
+C:/Vivado_projects/Vivado/trafficlight_controller.v,1752943098,verilog,,C:/Vivado_projects/Vivado/tb_trafficlight.v,,trafficlight_controller,,,,,,,,
