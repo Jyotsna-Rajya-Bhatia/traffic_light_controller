@@ -1,0 +1,7 @@
+*.jou
+*.log
+*.backup.*
+.cache/
+.ip_user_files/
+.sim/
+*.wdb
